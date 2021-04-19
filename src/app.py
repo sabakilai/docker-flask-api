@@ -9,7 +9,7 @@ def base_url():
     """Base url to test API."""
 
     response = {
-        'response': 'Hello world!'
+        'response': 'Hi petite!'
     }
 
     return jsonify(response)
